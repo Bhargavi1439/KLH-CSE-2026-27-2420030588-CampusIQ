@@ -1,69 +1,134 @@
-# CampusIQ: Smart Campus Optimization Platform
+# **Campus IQ – Intelligent Resource Management for Smart Campuses**
 
-CampusIQ is an intelligent smart-campus platform built with a modern Microservices architecture and Agentic AI. 
-It aims to optimize university operations and enhance the student experience.
+ ## **Team Members**
 
-## Architecture
+2420030093	E. Mahathi 
 
-The project consists of three main tiers:
+2420030043	P. Pranathi
 
-### 1. Spring Boot Microservices
-12 independent Spring Boot microservices backed by PostgreSQL, handling core campus domains:
-- **api-gateway (8080):** Spring Cloud Gateway for routing.
-- **auth-service (8081):** Authentication and user management.
-- **student-service (8082):** Core student data.
-- **faculty-service (8083):** Faculty operations.
-- **academic-service (8084):** Courses and curriculum.
-- **classroom-service (8085):** Physical room management.
-- **attendance-service (8086):** Attendance tracking.
-- **resource-service (8087):** Library, gym, cafeteria resources.
-- **transport-service (8088):** Campus transport tracking.
-- **event-service (8089):** Campus events.
-- **infrastructure-service (8090):** Maintenance requests.
-- **notification-service (8091):** RabbitMQ-driven notification dispatcher.
+2420030588	Ch. Bhargavi Devi
 
-### 2. Python AI Services
-- **prediction-service (8000):** AI service for student performance prediction (Risk level analysis).
-- **agent-service (8001):** Agentic AI NLP engine connecting users to microservices.
+2420090077	D. Krishna Chaitanya
 
-### 3. React Frontend
-- **frontend (5173):** A sleek, glassmorphism-based React SPA tailored for modern campus administration. It features dashboards, interactive charts, and a direct AI Agent interface.
+### **Supervisor**
 
-## Getting Started
+Dr G.Lavanya
 
-### Prerequisites
-- Java 21
-- Node.js 20+
-- Python 3.10+
-- PostgreSQL 15+
-- RabbitMQ
-- Docker (Optional)
+### **Abstract**
 
-### Running Locally
+Campus IQ – Intelligent Resource Management for Smart Campuses is a smart campus 
+management system developed to improve the way educational institutions manage and utilize 
+their available resources. A college campus consists of many resources such as classrooms, 
+laboratories, computers, equipment, electricity, library facilities, and other infrastructure. 
+Managing these resources manually can be difficult when there are many students, faculty 
+members, departments, and activities taking place simultaneously. This can lead to problems 
+such as unused classrooms, overcrowded laboratories, inefficient equipment usage, 
+unnecessary energy consumption, and difficulty in tracking resource availability. 
+Campus IQ aims to address these problems by combining Artificial Intelligence (AI), 
+databases, and data analysis. The system collects information 
+related to resource availability, occupancy, usage time, equipment usage, and energy 
+consumption. This information can be collected using existing campus systems, 
+or manual inputs. The collected data is stored in a database, where it can be organized and 
+processed for further analysis. 
+AI and data analysis can help identify resources that are frequently used, underused, or 
+overused. Based on these patterns, Campus IQ can provide useful recommendations to 
+administrators. For example, if a classroom remains unused during specific hours, the system 
+can suggest assigning it to another class or activity. If one laboratory is overcrowded while 
+another is available, the system can recommend a better allocation of students. The system can 
+also monitor energy usage and identify unusual or unnecessary consumption. 
+Campus IQ includes an administrator dashboard that provides information about resource 
+availability, occupancy, usage statistics, energy consumption, alerts, reports, and AI-based 
+recommendations. This dashboard helps administrators monitor campus resources from a 
+single platform and reduces the need for manual checking. By using real-time or regularly 
+updated data, administrators can make better decisions about resource allocation and campus 
+operations. 
+The main goal of Campus IQ is to reduce resource wastage, improve resource utilization, 
+save energy and costs, and reduce manual work. The system can benefit students, faculty, 
+and administrators by making campus resources easier to monitor and manage. In the future, 
+the system can be extended with real-time IoT monitoring, automatic classroom allocation, 
+predictive maintenance of equipment, smart energy control, mobile applications, and AI-based 
+campus assistants. 
+Overall, Campus IQ provides a practical approach to creating a smarter, more efficient, 
+organized, and sustainable campus environment by using technology to make better use of 
+the resources that are already available.
 
-1. **Start Infrastructure**: Start PostgreSQL and RabbitMQ, or use the provided \docker-compose.yml\ for the entire stack.
-   \\\ash
-   docker-compose up -d postgres rabbitmq
-   \\\
+### **Setup Instructions**
 
-2. **Start Backend Microservices**: 
-   Navigate to \ackend/\ and run:
-   \\\ash
-   ./mvnw spring-boot:run -pl <service-name>
-   \\\
+**Clone the repository**
 
-3. **Start AI Services**:
-   Navigate to \python-services/\, set up a venv, and run \main.py\.
+bash
 
-4. **Start Frontend**:
-   Navigate to \rontend/\ and run:
-   \\\ash
-   npm install
-   npm run dev
-   \\\
+git clone https://github.com/Bhargavi1439/KLH-CSE-2026-27-2420030588-CampusIQ.git
 
-## Monitoring & Self-Healing
-All Spring Boot microservices are instrumented with **Spring Boot Actuator**, exposing health checks at \/actuator/health\.
+cd campus-iq
+
+**Install dependencies**
+
+Ensure Python 3.9+ is installed.
+
+Install required packages:
+
+bash
+
+pip install -r requirements.txt
+
+**Database setup**
+
+Configure PostgreSQL/MySQL.
+
+Update config/db_config.json with credentials.
+
+Run migrations:
+
+bash
+
+python manage.py migrate
+
+**Environment variables**
+
+Create a .env file:
+
+**Code**
+
+SECRET_KEY=your_secret_key
+
+DEBUG=True
+
+DB_HOST=localhost
+
+DB_USER=your_user
+
+DB_PASSWORD=your_password
+
+### **Execution Instructions**
+
+**Start backend server**
+
+bash
+
+python manage.py runserver
+
+**Launch frontend**
+
+bash
+
+cd frontend
+
+npm install
+
+npm start
+
+### **Current Phase Status**
+
+Phase 1: Requirement Analysis - Completed
+
+Phase 2: System Design - Completed
+
+Phase 3: Prototype Development - Completed
+
+Phase 4: Testing & Validation - Completed
+
+Phase 5: Deployment & Monitoring - Completed
 
 ## Testing
 A system integration script is available in \scripts/test_all.py\ to verify that AI services and microservices can communicate effectively.
