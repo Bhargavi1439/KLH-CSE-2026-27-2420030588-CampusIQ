@@ -1,0 +1,687 @@
+{
+    "info": {
+        "_postman_id": "26dff83a-2cfb-4a2f-bd31-babe8775101f",
+        "name": "CampusIQ Services",
+        "description": "Generated Postman Collection for CampusIQ Backend Services",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "academic-service",
+            "item": [
+                {
+                    "name": "GET /academic/courses",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/academic/courses",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "academic",
+                                "courses"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /academic/courses",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/academic/courses",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "academic",
+                                "courses"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "attendance-service",
+            "item": [
+                {
+                    "name": "GET /attendance/records",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/attendance/records",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "attendance",
+                                "records"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /attendance/records",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/attendance/records",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "attendance",
+                                "records"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "auth-service",
+            "item": [
+                {
+                    "name": "POST /auth/login",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/auth/login",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "auth",
+                                "login"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /auth/register",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/auth/register",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "auth",
+                                "register"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "GET /auth/me",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/auth/me",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "auth",
+                                "me"
+                            ]
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "classroom-service",
+            "item": [
+                {
+                    "name": "GET /classroom/rooms",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/classroom/rooms",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "classroom",
+                                "rooms"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /classroom/rooms",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/classroom/rooms",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "classroom",
+                                "rooms"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "dashboard-service",
+            "item": [
+                {
+                    "name": "GET /dashboard/student",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/dashboard/student",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "dashboard",
+                                "student"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "GET /dashboard/faculty",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/dashboard/faculty",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "dashboard",
+                                "faculty"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "GET /dashboard/hod",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/dashboard/hod",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "dashboard",
+                                "hod"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "GET /dashboard/admin",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/dashboard/admin",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "dashboard",
+                                "admin"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "GET /dashboard/parent",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/dashboard/parent",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "dashboard",
+                                "parent"
+                            ]
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "event-service",
+            "item": [
+                {
+                    "name": "GET /event/events",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/event/events",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "event",
+                                "events"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /event/events",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/event/events",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "event",
+                                "events"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "faculty-service",
+            "item": [
+                {
+                    "name": "GET /faculty/profile",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/faculty/profile",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "faculty",
+                                "profile"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "PUT /faculty/profile",
+                    "request": {
+                        "method": "PUT",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/faculty/profile",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "faculty",
+                                "profile"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "infrastructure-service",
+            "item": [
+                {
+                    "name": "GET /infrastructure/requests",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/infrastructure/requests",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "infrastructure",
+                                "requests"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /infrastructure/requests",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/infrastructure/requests",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "infrastructure",
+                                "requests"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "notification-service",
+            "item": [
+                {
+                    "name": "GET /notification",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/notification",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "notification"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /notification",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/notification",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "notification"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "resource-service",
+            "item": [
+                {
+                    "name": "GET /resource/items",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/resource/items",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "resource",
+                                "items"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /resource/items",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/resource/items",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "resource",
+                                "items"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "student-service",
+            "item": [
+                {
+                    "name": "GET /student/profile",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/student/profile",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "student",
+                                "profile"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "PUT /student/profile",
+                    "request": {
+                        "method": "PUT",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/student/profile",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "student",
+                                "profile"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        },
+        {
+            "name": "transport-service",
+            "item": [
+                {
+                    "name": "GET /transport/routes",
+                    "request": {
+                        "method": "GET",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/transport/routes",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "transport",
+                                "routes"
+                            ]
+                        }
+                    },
+                    "response": []
+                },
+                {
+                    "name": "POST /transport/routes",
+                    "request": {
+                        "method": "POST",
+                        "header": [],
+                        "url": {
+                            "raw": "{{base_url}}/transport/routes",
+                            "host": [
+                                "{{base_url}}"
+                            ],
+                            "path": [
+                                "transport",
+                                "routes"
+                            ]
+                        },
+                        "body": {
+                            "mode": "raw",
+                            "raw": "{}",
+                            "options": {
+                                "raw": {
+                                    "language": "json"
+                                }
+                            }
+                        }
+                    },
+                    "response": []
+                }
+            ]
+        }
+    ],
+    "variable": [
+        {
+            "key": "base_url",
+            "value": "http://localhost:8080",
+            "type": "string"
+        }
+    ]
+}

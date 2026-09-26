@@ -1,0 +1,15 @@
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\AuthServiceApplication.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\controller\AuthController.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\dto\AuthResponse.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\dto\LoginRequest.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\dto\RegisterRequest.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\entity\Role.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\entity\User.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\exception\GlobalExceptionHandler.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\repository\UserRepository.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\DataSeeder.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\JwtFilter.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\JwtUtil.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\SecurityConfig.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\UserDetailsImpl.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\auth-service\src\main\java\com\edufusionai\auth\security\UserDetailsServiceImpl.java

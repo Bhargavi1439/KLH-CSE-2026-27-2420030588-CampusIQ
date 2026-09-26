@@ -1,0 +1,8 @@
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\ClassroomServiceApplication.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\controller\ClassroomController.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\entity\Classroom.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\exception\GlobalExceptionHandler.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\repository\ClassroomRepository.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\security\JwtFilter.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\security\JwtUtil.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\classroom-service\src\main\java\com\edufusionai\classroom\security\SecurityConfig.java

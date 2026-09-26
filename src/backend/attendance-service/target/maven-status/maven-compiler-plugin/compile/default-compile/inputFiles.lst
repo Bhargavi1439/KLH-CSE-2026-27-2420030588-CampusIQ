@@ -1,0 +1,8 @@
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\AttendanceServiceApplication.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\controller\AttendanceController.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\entity\Attendance.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\exception\GlobalExceptionHandler.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\repository\AttendanceRepository.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\security\JwtFilter.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\security\JwtUtil.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\attendance-service\src\main\java\com\edufusionai\attendance\security\SecurityConfig.java

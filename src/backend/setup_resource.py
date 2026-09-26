@@ -1,0 +1,62 @@
+import os
+import shutil
+
+base = r'C:\Users\krish\.gemini\antigravity-ide\scratch\CampusIQ-AI\backend'
+src_dir = os.path.join(base, 'attendance-service')
+dst_dir = os.path.join(base, 'resource-service')
+
+if os.path.exists(dst_dir):
+    shutil.rmtree(dst_dir)
+shutil.copytree(src_dir, dst_dir)
+
+# Remove target directory
+shutil.rmtree(os.path.join(dst_dir, 'target'), ignore_errors=True)
+
+# Rename package attendance -> resource
+old_pkg = os.path.join(dst_dir, 'src', 'main', 'java', 'com', 'campusiq', 'attendance')
+new_pkg = os.path.join(dst_dir, 'src', 'main', 'java', 'com', 'campusiq', 'resource')
+os.rename(old_pkg, new_pkg)
+
+# Replace text in java files
+for root, dirs, files in os.walk(new_pkg):
+    for f in files:
+        if f.endswith('.java'):
+            path = os.path.join(root, f)
+            with open(path, 'r', encoding='utf-8') as file:
+                content = file.read()
+            content = content.replace('com.campusiq.attendance', 'com.campusiq.resource')
+            content = content.replace('AttendanceServiceApplication', 'ResourceServiceApplication')
+            with open(path, 'w', encoding='utf-8') as file:
+                file.write(content)
+
+# Rename Application class
+os.rename(os.path.join(new_pkg, 'AttendanceServiceApplication.java'), os.path.join(new_pkg, 'ResourceServiceApplication.java'))
+
+# Edit pom.xml
+pom_path = os.path.join(dst_dir, 'pom.xml')
+with open(pom_path, 'r', encoding='utf-8') as file:
+    content = file.read()
+content = content.replace('<artifactId>attendance-service</artifactId>', '<artifactId>resource-service</artifactId>')
+content = content.replace('<name>CampusIQ Attendance Service</name>', '<name>CampusIQ Resource Service</name>')
+content = content.replace('<description>Attendance Service for CampusIQ</description>', '<description>Resource Service for CampusIQ</description>')
+with open(pom_path, 'w', encoding='utf-8') as file:
+    file.write(content)
+
+# Edit application.yml
+yml_path = os.path.join(dst_dir, 'src', 'main', 'resources', 'application.yml')
+with open(yml_path, 'r', encoding='utf-8') as file:
+    content = file.read()
+content = content.replace('port: ', 'port: ')
+content = content.replace('name: attendance-service', 'name: resource-service')
+content = content.replace('default_schema: attendance_schema', 'default_schema: resource_schema')
+with open(yml_path, 'w', encoding='utf-8') as file:
+    file.write(content)
+
+# Edit parent pom.xml
+parent_pom = os.path.join(base, 'pom.xml')
+with open(parent_pom, 'r', encoding='utf-8') as file:
+    content = file.read()
+if '<module>resource-service</module>' not in content:
+    content = content.replace('<module>attendance-service</module>', '<module>attendance-service</module>\n        <module>resource-service</module>')
+    with open(parent_pom, 'w', encoding='utf-8') as file:
+        file.write(content)

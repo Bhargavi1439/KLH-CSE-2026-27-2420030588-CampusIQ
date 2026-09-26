@@ -1,0 +1,9 @@
+com\edufusionai\academic\AcademicServiceApplication.class
+com\edufusionai\academic\controller\CourseController.class
+com\edufusionai\academic\entity\Course.class
+com\edufusionai\academic\repository\CourseRepository.class
+com\edufusionai\academic\entity\Course$CourseBuilder.class
+com\edufusionai\academic\exception\GlobalExceptionHandler.class
+com\edufusionai\academic\security\JwtFilter.class
+com\edufusionai\academic\security\JwtUtil.class
+com\edufusionai\academic\security\SecurityConfig.class

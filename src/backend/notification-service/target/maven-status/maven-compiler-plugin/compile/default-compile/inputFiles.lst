@@ -1,0 +1,10 @@
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\config\KafkaTopicConfig.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\controller\NotificationController.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\entity\Notification.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\exception\GlobalExceptionHandler.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\messaging\NotificationListener.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\NotificationServiceApplication.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\repository\NotificationRepository.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\security\JwtFilter.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\security\JwtUtil.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\notification-service\src\main\java\com\edufusionai\notification\security\SecurityConfig.java

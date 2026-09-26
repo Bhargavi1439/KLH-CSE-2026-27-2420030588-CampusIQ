@@ -1,0 +1,10 @@
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\config\KafkaTopicConfig.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\controller\EventController.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\entity\Event.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\EventServiceApplication.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\exception\GlobalExceptionHandler.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\messaging\EventPublisher.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\repository\EventRepository.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\security\JwtFilter.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\security\JwtUtil.java
+C:\Users\krish\.gemini\antigravity-ide\scratch\EduFusion-AI\backend\event-service\src\main\java\com\edufusionai\event\security\SecurityConfig.java

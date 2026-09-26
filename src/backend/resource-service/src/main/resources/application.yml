@@ -1,0 +1,33 @@
+server:
+  port: ${RESOURCE_PORT:8087}
+
+spring:
+  application:
+    name: resource-service
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/campusiq}
+    username: ${DATABASE_USERNAME:postgres}
+    password: ${DATABASE_PASSWORD:postgres}
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        default_schema: resource_schema
+        hbm2ddl.create_namespaces: true
+    show-sql: true
+
+jwt:
+  secret: ${JWT_SECRET:your_super_secret_jwt_key_that_is_long_enough_for_hs256}
+  expiration: ${JWT_EXPIRATION_MS:86400000}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always

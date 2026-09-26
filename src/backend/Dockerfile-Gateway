@@ -1,0 +1,7 @@
+FROM maven:3.9.6-eclipse-temurin-21-alpine
+WORKDIR /app
+
+COPY . .
+
+RUN mvn clean package -DskipTests -pl api-gateway -am
+ENTRYPOINT ["java","-jar","/app/api-gateway/target/api-gateway-1.0.0-SNAPSHOT.jar"]
