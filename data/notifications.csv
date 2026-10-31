@@ -1,0 +1,310 @@
+id,user_id,message,type,status
+7000,1001,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7001,1001,New event registered: AI & Innovation Hackathon.,PUSH,SENT
+7002,1002,New event registered: AI & Innovation Hackathon.,PUSH,SENT
+7003,1002,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7004,1003,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7005,1003,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7006,1004,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7007,1004,Faculty meeting reminder for your department.,EMAIL,SENT
+7008,1005,Faculty meeting reminder for your department.,EMAIL,SENT
+7009,1005,New resource is available in the campus portal.,PUSH,SENT
+7010,1006,New resource is available in the campus portal.,PUSH,SENT
+7011,1006,Your leave application status has been updated.,PUSH,SENT
+7012,1007,Your leave application status has been updated.,PUSH,SENT
+7013,1007,AI early-warning report is ready for review.,EMAIL,SENT
+7014,1008,AI early-warning report is ready for review.,EMAIL,SENT
+7015,1008,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7016,1009,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7017,1009,New event registered: Cloud Computing Bootcamp.,PUSH,SENT
+7018,1010,New event registered: Cloud Computing Bootcamp.,PUSH,SENT
+7019,1010,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7020,1011,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7021,1011,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7022,1012,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7023,1012,Faculty meeting reminder for your department.,EMAIL,SENT
+7024,1013,Faculty meeting reminder for your department.,EMAIL,SENT
+7025,1013,New resource is available in the campus portal.,PUSH,SENT
+7026,1014,New resource is available in the campus portal.,PUSH,SENT
+7027,1014,Your leave application status has been updated.,PUSH,SENT
+7028,1015,Your leave application status has been updated.,PUSH,SENT
+7029,1015,AI early-warning report is ready for review.,EMAIL,SENT
+7030,1016,AI early-warning report is ready for review.,EMAIL,SENT
+7031,1016,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7032,1017,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7033,1017,New event registered: Coding League Finals.,PUSH,SENT
+7034,1018,New event registered: Coding League Finals.,PUSH,SENT
+7035,1018,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7036,1019,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7037,1019,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7038,1020,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7039,1020,Faculty meeting reminder for your department.,EMAIL,SENT
+7040,1021,Faculty meeting reminder for your department.,EMAIL,SENT
+7041,1021,New resource is available in the campus portal.,PUSH,SENT
+7042,1022,New resource is available in the campus portal.,PUSH,SENT
+7043,1022,Your leave application status has been updated.,PUSH,SENT
+7044,1023,Your leave application status has been updated.,PUSH,SENT
+7045,1023,AI early-warning report is ready for review.,EMAIL,SENT
+7046,1024,AI early-warning report is ready for review.,EMAIL,SENT
+7047,1024,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7048,1025,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7049,1025,New event registered: Hackathon Demo Day.,PUSH,SENT
+7050,1026,New event registered: Hackathon Demo Day.,PUSH,SENT
+7051,1026,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7052,1027,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7053,1027,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7054,1028,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7055,1028,Faculty meeting reminder for your department.,EMAIL,SENT
+7056,1029,Faculty meeting reminder for your department.,EMAIL,SENT
+7057,1029,New resource is available in the campus portal.,PUSH,SENT
+7058,1030,New resource is available in the campus portal.,PUSH,SENT
+7059,1030,Your leave application status has been updated.,PUSH,SENT
+7060,1031,Your leave application status has been updated.,PUSH,SENT
+7061,1031,AI early-warning report is ready for review.,EMAIL,SENT
+7062,1032,AI early-warning report is ready for review.,EMAIL,SENT
+7063,1032,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7064,1033,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7065,1033,New event registered: Career & Internship Fair.,PUSH,SENT
+7066,1034,New event registered: Career & Internship Fair.,PUSH,SENT
+7067,1034,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7068,1035,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7069,1035,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7070,1036,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7071,1036,Faculty meeting reminder for your department.,EMAIL,SENT
+7072,1037,Faculty meeting reminder for your department.,EMAIL,SENT
+7073,1037,New resource is available in the campus portal.,PUSH,SENT
+7074,1038,New resource is available in the campus portal.,PUSH,SENT
+7075,1038,Your leave application status has been updated.,PUSH,SENT
+7076,1039,Your leave application status has been updated.,PUSH,SENT
+7077,1039,AI early-warning report is ready for review.,EMAIL,SENT
+7078,1040,AI early-warning report is ready for review.,EMAIL,SENT
+7079,1040,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7080,1041,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7081,1041,New event registered: Entrepreneurship Summit.,PUSH,SENT
+7082,1042,New event registered: Entrepreneurship Summit.,PUSH,SENT
+7083,1042,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7084,1043,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7085,1043,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7086,1044,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7087,1044,Faculty meeting reminder for your department.,EMAIL,SENT
+7088,1045,Faculty meeting reminder for your department.,EMAIL,SENT
+7089,1045,New resource is available in the campus portal.,PUSH,SENT
+7090,1046,New resource is available in the campus portal.,PUSH,SENT
+7091,1046,Your leave application status has been updated.,PUSH,SENT
+7092,1047,Your leave application status has been updated.,PUSH,SENT
+7093,1047,AI early-warning report is ready for review.,EMAIL,SENT
+7094,1048,AI early-warning report is ready for review.,EMAIL,SENT
+7095,1048,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7096,1049,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7097,1049,New event registered: Convocation Rehearsal.,PUSH,SENT
+7098,1050,New event registered: Convocation Rehearsal.,PUSH,SENT
+7099,1050,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7100,1051,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7101,1051,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7102,1052,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7103,1052,Faculty meeting reminder for your department.,EMAIL,SENT
+7104,1053,Faculty meeting reminder for your department.,EMAIL,SENT
+7105,1053,New resource is available in the campus portal.,PUSH,SENT
+7106,1054,New resource is available in the campus portal.,PUSH,SENT
+7107,1054,Your leave application status has been updated.,PUSH,SENT
+7108,1055,Your leave application status has been updated.,PUSH,SENT
+7109,1055,AI early-warning report is ready for review.,EMAIL,SENT
+7110,1056,AI early-warning report is ready for review.,EMAIL,SENT
+7111,1056,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7112,1057,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7113,1057,New event registered: Placement Mock Interviews.,PUSH,SENT
+7114,1058,New event registered: Placement Mock Interviews.,PUSH,SENT
+7115,1058,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7116,1059,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7117,1059,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7118,1060,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7119,1060,Faculty meeting reminder for your department.,EMAIL,SENT
+7120,1061,Faculty meeting reminder for your department.,EMAIL,SENT
+7121,1061,New resource is available in the campus portal.,PUSH,SENT
+7122,1062,New resource is available in the campus portal.,PUSH,SENT
+7123,1062,Your leave application status has been updated.,PUSH,SENT
+7124,1063,Your leave application status has been updated.,PUSH,SENT
+7125,1063,AI early-warning report is ready for review.,EMAIL,SENT
+7126,1064,AI early-warning report is ready for review.,EMAIL,SENT
+7127,1064,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7128,1065,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7129,1065,New event registered: Sports Meet.,PUSH,SENT
+7130,1066,New event registered: Sports Meet.,PUSH,SENT
+7131,1066,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7132,1067,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7133,1067,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7134,1068,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7135,1068,Faculty meeting reminder for your department.,EMAIL,SENT
+7136,1069,Faculty meeting reminder for your department.,EMAIL,SENT
+7137,1069,New resource is available in the campus portal.,PUSH,SENT
+7138,1070,New resource is available in the campus portal.,PUSH,SENT
+7139,1070,Your leave application status has been updated.,PUSH,SENT
+7140,1071,Your leave application status has been updated.,PUSH,SENT
+7141,1071,AI early-warning report is ready for review.,EMAIL,SENT
+7142,1072,AI early-warning report is ready for review.,EMAIL,SENT
+7143,1072,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7144,1073,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7145,1073,New event registered: Robotics Exhibition.,PUSH,SENT
+7146,1074,New event registered: Robotics Exhibition.,PUSH,SENT
+7147,1074,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7148,1075,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7149,1075,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7150,1076,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7151,1076,Faculty meeting reminder for your department.,EMAIL,SENT
+7152,1077,Faculty meeting reminder for your department.,EMAIL,SENT
+7153,1077,New resource is available in the campus portal.,PUSH,SENT
+7154,1078,New resource is available in the campus portal.,PUSH,SENT
+7155,1078,Your leave application status has been updated.,PUSH,SENT
+7156,1079,Your leave application status has been updated.,PUSH,SENT
+7157,1079,AI early-warning report is ready for review.,EMAIL,SENT
+7158,1080,AI early-warning report is ready for review.,EMAIL,SENT
+7159,1080,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7160,1081,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7161,1081,New event registered: Data Science Meetup.,PUSH,SENT
+7162,1082,New event registered: Data Science Meetup.,PUSH,SENT
+7163,1082,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7164,1083,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7165,1083,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7166,1084,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7167,1084,Faculty meeting reminder for your department.,EMAIL,SENT
+7168,1085,Faculty meeting reminder for your department.,EMAIL,SENT
+7169,1085,New resource is available in the campus portal.,PUSH,SENT
+7170,1086,New resource is available in the campus portal.,PUSH,SENT
+7171,1086,Your leave application status has been updated.,PUSH,SENT
+7172,1087,Your leave application status has been updated.,PUSH,SENT
+7173,1087,AI early-warning report is ready for review.,EMAIL,SENT
+7174,1088,AI early-warning report is ready for review.,EMAIL,SENT
+7175,1088,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7176,1089,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7177,1089,New event registered: Semester Project Review.,PUSH,SENT
+7178,1090,New event registered: Semester Project Review.,PUSH,SENT
+7179,1090,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7180,1091,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7181,1091,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7182,1092,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7183,1092,Faculty meeting reminder for your department.,EMAIL,SENT
+7184,1093,Faculty meeting reminder for your department.,EMAIL,SENT
+7185,1093,New resource is available in the campus portal.,PUSH,SENT
+7186,1094,New resource is available in the campus portal.,PUSH,SENT
+7187,1094,Your leave application status has been updated.,PUSH,SENT
+7188,1095,Your leave application status has been updated.,PUSH,SENT
+7189,1095,AI early-warning report is ready for review.,EMAIL,SENT
+7190,1096,AI early-warning report is ready for review.,EMAIL,SENT
+7191,1096,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7192,1097,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7193,1097,New event registered: Alumni Interaction.,PUSH,SENT
+7194,1098,New event registered: Alumni Interaction.,PUSH,SENT
+7195,1098,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7196,1099,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7197,1099,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7198,1100,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7199,1100,Faculty meeting reminder for your department.,EMAIL,SENT
+7200,1101,Faculty meeting reminder for your department.,EMAIL,SENT
+7201,1101,New resource is available in the campus portal.,PUSH,SENT
+7202,1102,New resource is available in the campus portal.,PUSH,SENT
+7203,1102,Your leave application status has been updated.,PUSH,SENT
+7204,1103,Your leave application status has been updated.,PUSH,SENT
+7205,1103,AI early-warning report is ready for review.,EMAIL,SENT
+7206,1104,AI early-warning report is ready for review.,EMAIL,SENT
+7207,1104,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7208,1105,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7209,1105,New event registered: Faculty Development Programme.,PUSH,SENT
+7210,1106,New event registered: Faculty Development Programme.,PUSH,SENT
+7211,1106,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7212,1107,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7213,1107,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7214,1108,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7215,1108,Faculty meeting reminder for your department.,EMAIL,SENT
+7216,1109,Faculty meeting reminder for your department.,EMAIL,SENT
+7217,1109,New resource is available in the campus portal.,PUSH,SENT
+7218,1110,New resource is available in the campus portal.,PUSH,SENT
+7219,1110,Your leave application status has been updated.,PUSH,SENT
+7220,1111,Your leave application status has been updated.,PUSH,SENT
+7221,1111,AI early-warning report is ready for review.,EMAIL,SENT
+7222,1112,AI early-warning report is ready for review.,EMAIL,SENT
+7223,1112,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7224,1113,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7225,1113,New event registered: Industry Guest Lecture.,PUSH,SENT
+7226,1114,New event registered: Industry Guest Lecture.,PUSH,SENT
+7227,1114,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7228,1115,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7229,1115,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7230,1116,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7231,1116,Faculty meeting reminder for your department.,EMAIL,SENT
+7232,1117,Faculty meeting reminder for your department.,EMAIL,SENT
+7233,1117,New resource is available in the campus portal.,PUSH,SENT
+7234,1118,New resource is available in the campus portal.,PUSH,SENT
+7235,1118,Your leave application status has been updated.,PUSH,SENT
+7236,1119,Your leave application status has been updated.,PUSH,SENT
+7237,1119,AI early-warning report is ready for review.,EMAIL,SENT
+7238,1120,AI early-warning report is ready for review.,EMAIL,SENT
+7239,1120,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7240,1121,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT
+7241,1121,New event registered: AI & Innovation Hackathon.,PUSH,SENT
+7242,1121,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7243,1122,New event registered: AI & Innovation Hackathon.,PUSH,SENT
+7244,1122,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7245,1122,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7246,1123,Your assignment deadline for Database Management Systems is approaching.,EMAIL,SENT
+7247,1123,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7248,1123,Faculty meeting reminder for your department.,EMAIL,SENT
+7249,1124,Classroom updated for Operating Systems. Check today's schedule.,PUSH,SENT
+7250,1124,Faculty meeting reminder for your department.,EMAIL,SENT
+7251,1124,New resource is available in the campus portal.,PUSH,SENT
+7252,1125,Faculty meeting reminder for your department.,EMAIL,SENT
+7253,1125,New resource is available in the campus portal.,PUSH,SENT
+7254,1125,Your leave application status has been updated.,PUSH,SENT
+7255,1126,New resource is available in the campus portal.,PUSH,SENT
+7256,1126,Your leave application status has been updated.,PUSH,SENT
+7257,1126,AI early-warning report is ready for review.,EMAIL,SENT
+7258,1127,Your leave application status has been updated.,PUSH,SENT
+7259,1127,AI early-warning report is ready for review.,EMAIL,SENT
+7260,1127,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7261,1128,AI early-warning report is ready for review.,EMAIL,SENT
+7262,1128,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7263,1128,New event registered: Cloud Computing Bootcamp.,PUSH,SENT
+7264,1129,Attendance reminder: your attendance in Software Engineering is below 75%.,PUSH,SENT
+7265,1129,New event registered: Cloud Computing Bootcamp.,PUSH,SENT
+7266,1129,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7267,1130,New event registered: Cloud Computing Bootcamp.,PUSH,SENT
+7268,1130,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7269,1130,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7270,1131,Your assignment deadline for Deep Learning is approaching.,EMAIL,SENT
+7271,1131,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7272,1131,Faculty meeting reminder for your department.,EMAIL,SENT
+7273,1132,Classroom updated for Data Analytics. Check today's schedule.,PUSH,SENT
+7274,1132,Faculty meeting reminder for your department.,EMAIL,SENT
+7275,1132,New resource is available in the campus portal.,PUSH,SENT
+7276,1133,Faculty meeting reminder for your department.,EMAIL,SENT
+7277,1133,New resource is available in the campus portal.,PUSH,SENT
+7278,1133,Your leave application status has been updated.,PUSH,SENT
+7279,1134,New resource is available in the campus portal.,PUSH,SENT
+7280,1134,Your leave application status has been updated.,PUSH,SENT
+7281,1134,AI early-warning report is ready for review.,EMAIL,SENT
+7282,1135,Your leave application status has been updated.,PUSH,SENT
+7283,1135,AI early-warning report is ready for review.,EMAIL,SENT
+7284,1135,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7285,1136,AI early-warning report is ready for review.,EMAIL,SENT
+7286,1136,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7287,1136,New event registered: Coding League Finals.,PUSH,SENT
+7288,1137,Attendance reminder: your attendance in Computer Networks is below 75%.,PUSH,SENT
+7289,1137,New event registered: Coding League Finals.,PUSH,SENT
+7290,1137,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7291,1138,New event registered: Coding League Finals.,PUSH,SENT
+7292,1138,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7293,1138,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7294,1139,Your assignment deadline for Machine Learning is approaching.,EMAIL,SENT
+7295,1139,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7296,1139,Faculty meeting reminder for your department.,EMAIL,SENT
+7297,1140,Classroom updated for Web Technologies. Check today's schedule.,PUSH,SENT
+7298,1140,Faculty meeting reminder for your department.,EMAIL,SENT
+7299,1140,New resource is available in the campus portal.,PUSH,SENT
+7300,1141,Faculty meeting reminder for your department.,EMAIL,SENT
+7301,1141,New resource is available in the campus portal.,PUSH,SENT
+7302,1141,Your leave application status has been updated.,PUSH,SENT
+7303,1162,New resource is available in the campus portal.,PUSH,SENT
+7304,1162,Your leave application status has been updated.,PUSH,SENT
+7305,1162,AI early-warning report is ready for review.,EMAIL,SENT
+7306,1163,Your leave application status has been updated.,PUSH,SENT
+7307,1163,AI early-warning report is ready for review.,EMAIL,SENT
+7308,1163,Attendance reminder: your attendance in Programming Fundamentals is below 75%.,PUSH,SENT

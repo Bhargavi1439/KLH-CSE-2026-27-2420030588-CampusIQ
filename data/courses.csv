@@ -1,0 +1,13 @@
+id,course_code,title,description,credits,faculty_id
+4001,CS101,Programming Fundamentals,"Python, Java and problem solving foundations",4,1121
+4002,CS201,Data Structures,Linear and non-linear data structures,4,1122
+4003,CS202,Database Management Systems,"Relational databases, SQL and normalization",4,1123
+4004,CS203,Operating Systems,"Processes, memory, scheduling and file systems",4,1124
+4005,CS204,Computer Networks,"Network protocols, routing and application services",3,1125
+4006,CS301,Artificial Intelligence,"Search, knowledge representation and intelligent agents",4,1126
+4007,CS302,Machine Learning,Supervised and unsupervised learning fundamentals,4,1127
+4008,CS303,Web Technologies,Modern frontend and backend web application development,3,1128
+4009,CS304,Software Engineering,"Requirements, architecture, testing and DevOps",3,1129
+4010,EC301,Embedded Systems,"Microcontrollers, interfaces and real-time systems",4,1130
+4011,AI401,Deep Learning,Neural networks and deep learning applications,4,1131
+4012,DS401,Data Analytics,Statistical analysis and data visualization,3,1132

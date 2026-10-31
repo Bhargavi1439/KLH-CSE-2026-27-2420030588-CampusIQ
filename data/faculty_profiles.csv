@@ -1,0 +1,16 @@
+id,user_id,department,title,office_location
+3001,1121,Information Technology,Associate Professor,Block B-201
+3002,1122,Electronics & Communication Engineering,Professor,Block C-202
+3003,1123,Electrical Engineering,Senior Lecturer,Block D-203
+3004,1124,Mechanical Engineering,Assistant Professor,Block E-204
+3005,1125,Artificial Intelligence & Data Science,Associate Professor,Block A-205
+3006,1126,Computer Science & Engineering,Professor,Block B-206
+3007,1127,Information Technology,Senior Lecturer,Block C-207
+3008,1128,Electronics & Communication Engineering,Assistant Professor,Block D-208
+3009,1129,Electrical Engineering,Associate Professor,Block E-209
+3010,1130,Mechanical Engineering,Professor,Block A-210
+3011,1131,Artificial Intelligence & Data Science,Senior Lecturer,Block B-211
+3012,1132,Computer Science & Engineering,Assistant Professor,Block C-212
+3013,1133,Information Technology,Associate Professor,Block D-213
+3014,1134,Electronics & Communication Engineering,Professor,Block E-214
+3015,1135,Electrical Engineering,Senior Lecturer,Block A-215

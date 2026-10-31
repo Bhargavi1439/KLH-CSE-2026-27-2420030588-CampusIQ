@@ -1,0 +1,31 @@
+id,building_name,issue_description,status
+10001,CS Block,Projector lamp replacement,PENDING
+10002,Engineering Block,Air conditioner not cooling,IN_PROGRESS
+10003,ECE Block,Network switch intermittent,RESOLVED
+10004,Innovation Block,Lab workstation overheating,PENDING
+10005,Central Block,Water dispenser leakage,RESOLVED
+10006,CS Block,Classroom light replacement,IN_PROGRESS
+10007,Library,Scanner unavailable,PENDING
+10008,Hostel A,Wi-Fi access point issue,IN_PROGRESS
+10009,Engineering Block,Lab chair replacement,RESOLVED
+10010,Central Block,Lift maintenance required,PENDING
+10011,Innovation Block,Smart board calibration,RESOLVED
+10012,ECE Block,UPS battery replacement,PENDING
+10013,CS Block,Ceiling fan noise,RESOLVED
+10014,Sports Complex,Scoreboard issue,IN_PROGRESS
+10015,Library,Reading room lighting,RESOLVED
+10016,Admin Block,Printer maintenance,PENDING
+10017,Innovation Block,3D printer nozzle replacement,IN_PROGRESS
+10018,Engineering Block,Door lock repair,RESOLVED
+10019,ECE Block,Oscilloscope calibration,PENDING
+10020,CS Block,CCTV camera alignment,IN_PROGRESS
+10021,Hostel B,Plumbing repair,RESOLVED
+10022,Central Block,Fire alarm inspection,PENDING
+10023,Library,AC servicing,IN_PROGRESS
+10024,Sports Complex,Floodlight replacement,RESOLVED
+10025,Innovation Block,Server rack cooling,PENDING
+10026,Admin Block,Access control reader issue,IN_PROGRESS
+10027,CS Block,Window latch repair,RESOLVED
+10028,Engineering Block,Power socket replacement,PENDING
+10029,ECE Block,Lab bench repair,RESOLVED
+10030,Central Block,Emergency exit signage,PENDING

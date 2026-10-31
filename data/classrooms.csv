@@ -1,0 +1,21 @@
+id,room_number,building,capacity,has_projector
+9001,A101,CS Block,50,True
+9002,B102,Engineering Block,70,True
+9003,C103,Innovation Block,40,False
+9004,D104,ECE Block,60,True
+9005,E105,Central Block,30,True
+9006,A106,CS Block,50,False
+9007,B107,Engineering Block,70,True
+9008,C108,Innovation Block,40,True
+9009,D109,ECE Block,60,False
+9010,E110,Central Block,30,True
+9011,A111,CS Block,50,True
+9012,B112,Engineering Block,70,False
+9013,C113,Innovation Block,40,True
+9014,D114,ECE Block,60,True
+9015,E115,Central Block,30,False
+9016,A116,CS Block,50,True
+9017,B117,Engineering Block,70,True
+9018,C118,Innovation Block,40,False
+9019,D119,ECE Block,60,True
+9020,E120,Central Block,30,True

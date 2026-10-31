@@ -1,0 +1,9 @@
+id,route_name,vehicle_number,capacity
+11001,Campus Loop A,TS09EA1001,40
+11002,Campus Loop B,TS09EA1002,40
+11003,Hostel Route A,TS09EA1003,52
+11004,Hostel Route B,TS09EA1004,52
+11005,City Route A,TS09EA1005,45
+11006,City Route B,TS09EA1006,45
+11007,Airport/Metro Shuttle,TS09EA1007,30
+11008,Weekend Special,TS09EA1008,30

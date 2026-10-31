@@ -1,0 +1,31 @@
+id,name,type,available_quantity
+8001,Dell Latitude 5440,LAPTOP,28
+8002,HP ProBook 440,LAPTOP,16
+8003,Raspberry Pi 5 Kit,EQUIPMENT,22
+8004,Arduino Uno Lab Kit,EQUIPMENT,35
+8005,Cisco Networking Kit,EQUIPMENT,10
+8006,Projector - Epson EB,EQUIPMENT,14
+8007,Database Systems Textbook,BOOK,42
+8008,Operating Systems Textbook,BOOK,37
+8009,Machine Learning Handbook,BOOK,29
+8010,AI Lab GPU Workstation,EQUIPMENT,8
+8011,USB-C Adapter,EQUIPMENT,55
+8012,HDMI Cable,EQUIPMENT,31
+8013,Wireless Presenter,EQUIPMENT,12
+8014,Scientific Calculator,EQUIPMENT,45
+8015,Digital Multimeter,EQUIPMENT,18
+8016,Soldering Station,EQUIPMENT,9
+8017,VR Headset,EQUIPMENT,6
+8018,DSLR Camera,EQUIPMENT,4
+8019,Conference Microphone,EQUIPMENT,7
+8020,Whiteboard Marker Set,EQUIPMENT,60
+8021,Python Programming Book,BOOK,48
+8022,Computer Networks Book,BOOK,34
+8023,Cloud Computing Book,BOOK,25
+8024,Data Analytics Book,BOOK,30
+8025,Embedded Systems Kit,EQUIPMENT,15
+8026,Robotics Starter Kit,EQUIPMENT,12
+8027,Portable PA System,EQUIPMENT,3
+8028,Lab Webcam,EQUIPMENT,19
+8029,External SSD 1TB,EQUIPMENT,11
+8030,Graphics Tablet,EQUIPMENT,5

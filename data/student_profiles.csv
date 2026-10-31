@@ -1,0 +1,121 @@
+id,user_id,major,enrollment_year,gpa
+2001,1001,Information Technology,2026,8.1
+2002,1002,Electronics & Communication Engineering,2025,6.8
+2003,1003,Electrical Engineering,2024,8.5
+2004,1004,Mechanical Engineering,2027,7.2
+2005,1005,Artificial Intelligence & Data Science,2026,8.9
+2006,1006,Computer Science & Engineering,2025,7.6
+2007,1007,Information Technology,2024,9.3
+2008,1008,Electronics & Communication Engineering,2027,8.0
+2009,1009,Electrical Engineering,2026,6.7
+2010,1010,Mechanical Engineering,2025,8.4
+2011,1011,Artificial Intelligence & Data Science,2024,7.1
+2012,1012,Computer Science & Engineering,2027,8.8
+2013,1013,Information Technology,2026,7.5
+2014,1014,Electronics & Communication Engineering,2025,9.2
+2015,1015,Electrical Engineering,2024,7.9
+2016,1016,Mechanical Engineering,2027,6.6
+2017,1017,Artificial Intelligence & Data Science,2026,8.3
+2018,1018,Computer Science & Engineering,2025,7.0
+2019,1019,Information Technology,2024,8.7
+2020,1020,Electronics & Communication Engineering,2027,7.4
+2021,1021,Electrical Engineering,2026,9.1
+2022,1022,Mechanical Engineering,2025,7.8
+2023,1023,Artificial Intelligence & Data Science,2024,6.5
+2024,1024,Computer Science & Engineering,2027,8.2
+2025,1025,Information Technology,2026,6.9
+2026,1026,Electronics & Communication Engineering,2025,8.6
+2027,1027,Electrical Engineering,2024,7.3
+2028,1028,Mechanical Engineering,2027,9.0
+2029,1029,Artificial Intelligence & Data Science,2026,7.7
+2030,1030,Computer Science & Engineering,2025,6.4
+2031,1031,Information Technology,2024,8.1
+2032,1032,Electronics & Communication Engineering,2027,6.8
+2033,1033,Electrical Engineering,2026,8.5
+2034,1034,Mechanical Engineering,2025,7.2
+2035,1035,Artificial Intelligence & Data Science,2024,8.9
+2036,1036,Computer Science & Engineering,2027,7.6
+2037,1037,Information Technology,2026,9.3
+2038,1038,Electronics & Communication Engineering,2025,8.0
+2039,1039,Electrical Engineering,2024,6.7
+2040,1040,Mechanical Engineering,2027,8.4
+2041,1041,Artificial Intelligence & Data Science,2026,7.1
+2042,1042,Computer Science & Engineering,2025,8.8
+2043,1043,Information Technology,2024,7.5
+2044,1044,Electronics & Communication Engineering,2027,9.2
+2045,1045,Electrical Engineering,2026,7.9
+2046,1046,Mechanical Engineering,2025,6.6
+2047,1047,Artificial Intelligence & Data Science,2024,8.3
+2048,1048,Computer Science & Engineering,2027,7.0
+2049,1049,Information Technology,2026,8.7
+2050,1050,Electronics & Communication Engineering,2025,7.4
+2051,1051,Electrical Engineering,2024,9.1
+2052,1052,Mechanical Engineering,2027,7.8
+2053,1053,Artificial Intelligence & Data Science,2026,6.5
+2054,1054,Computer Science & Engineering,2025,8.2
+2055,1055,Information Technology,2024,6.9
+2056,1056,Electronics & Communication Engineering,2027,8.6
+2057,1057,Electrical Engineering,2026,7.3
+2058,1058,Mechanical Engineering,2025,9.0
+2059,1059,Artificial Intelligence & Data Science,2024,7.7
+2060,1060,Computer Science & Engineering,2027,6.4
+2061,1061,Information Technology,2026,8.1
+2062,1062,Electronics & Communication Engineering,2025,6.8
+2063,1063,Electrical Engineering,2024,8.5
+2064,1064,Mechanical Engineering,2027,7.2
+2065,1065,Artificial Intelligence & Data Science,2026,8.9
+2066,1066,Computer Science & Engineering,2025,7.6
+2067,1067,Information Technology,2024,9.3
+2068,1068,Electronics & Communication Engineering,2027,8.0
+2069,1069,Electrical Engineering,2026,6.7
+2070,1070,Mechanical Engineering,2025,8.4
+2071,1071,Artificial Intelligence & Data Science,2024,7.1
+2072,1072,Computer Science & Engineering,2027,8.8
+2073,1073,Information Technology,2026,7.5
+2074,1074,Electronics & Communication Engineering,2025,9.2
+2075,1075,Electrical Engineering,2024,7.9
+2076,1076,Mechanical Engineering,2027,6.6
+2077,1077,Artificial Intelligence & Data Science,2026,8.3
+2078,1078,Computer Science & Engineering,2025,7.0
+2079,1079,Information Technology,2024,8.7
+2080,1080,Electronics & Communication Engineering,2027,7.4
+2081,1081,Electrical Engineering,2026,9.1
+2082,1082,Mechanical Engineering,2025,7.8
+2083,1083,Artificial Intelligence & Data Science,2024,6.5
+2084,1084,Computer Science & Engineering,2027,8.2
+2085,1085,Information Technology,2026,6.9
+2086,1086,Electronics & Communication Engineering,2025,8.6
+2087,1087,Electrical Engineering,2024,7.3
+2088,1088,Mechanical Engineering,2027,9.0
+2089,1089,Artificial Intelligence & Data Science,2026,7.7
+2090,1090,Computer Science & Engineering,2025,6.4
+2091,1091,Information Technology,2024,8.1
+2092,1092,Electronics & Communication Engineering,2027,6.8
+2093,1093,Electrical Engineering,2026,8.5
+2094,1094,Mechanical Engineering,2025,7.2
+2095,1095,Artificial Intelligence & Data Science,2024,8.9
+2096,1096,Computer Science & Engineering,2027,7.6
+2097,1097,Information Technology,2026,9.3
+2098,1098,Electronics & Communication Engineering,2025,8.0
+2099,1099,Electrical Engineering,2024,6.7
+2100,1100,Mechanical Engineering,2027,8.4
+2101,1101,Artificial Intelligence & Data Science,2026,7.1
+2102,1102,Computer Science & Engineering,2025,8.8
+2103,1103,Information Technology,2024,7.5
+2104,1104,Electronics & Communication Engineering,2027,9.2
+2105,1105,Electrical Engineering,2026,7.9
+2106,1106,Mechanical Engineering,2025,6.6
+2107,1107,Artificial Intelligence & Data Science,2024,8.3
+2108,1108,Computer Science & Engineering,2027,7.0
+2109,1109,Information Technology,2026,8.7
+2110,1110,Electronics & Communication Engineering,2025,7.4
+2111,1111,Electrical Engineering,2024,9.1
+2112,1112,Mechanical Engineering,2027,7.8
+2113,1113,Artificial Intelligence & Data Science,2026,6.5
+2114,1114,Computer Science & Engineering,2025,8.2
+2115,1115,Information Technology,2024,6.9
+2116,1116,Electronics & Communication Engineering,2027,8.6
+2117,1117,Electrical Engineering,2026,7.3
+2118,1118,Mechanical Engineering,2025,9.0
+2119,1119,Artificial Intelligence & Data Science,2024,7.7
+2120,1120,Computer Science & Engineering,2027,6.4
